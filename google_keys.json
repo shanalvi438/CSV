@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "velvety-tangent-394710",
-  "private_key_id": "9c7dc9f061429f73a8b5dd652b169827fcaf5f8d",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCMIRnFbZ0uLNUo\nsHQdxE/p+RB+BlSKGxA3+twWupdJXaazrItla5L4AZJ1FI38szLN5Ox2lLm2NgR0\nQujSfe17hSf2UqZFoUd+43qhDzJb1/inFuIqmaQcKCpeSKFRqbVTEsXTr+3yG7g9\niRpHXIkVZ+A3YidQZDgtZ9NROHyZmRENTM7RkX4e+GJNe/If3FUNGYvzQa8JskjG\nWSxwui0yp9gvAbj2PQpbkeC/kWirSku8coGdh1vD8FHFRd39Pv9Oql8bKe/ik7aG\nodJb8KciLPDgd1BMdWf5Kk+6Xt9fe/GurMo8UMJb5YriPUMdT4OXzGaopN8hDvcm\nx8I4HkCTAgMBAAECggEABjJ3OPj7s41osTpPLaXUluyx4wY/+jTvhwTsHivgVu6d\nBGMuwwHP58dCBTWEgKwiz2I+vDvK6W5YIhV3cHUAlK7d2+c/J+MrDfHc0X9M4yzu\nTTgWMSYcUOEh2+DrFCPPkL31dm2DC2sDFI2aAOqXEWrySotntlwdnpHHPFdQLga7\nLRZBKEmz3Hj0DhaMt+bLwhxVObHA6JFoYmhr/R+XH552RESIsK7i2MofuXYICyn/\nGCiQG9ecWE76BfV9VsYf6+GKkq1sDTnU+aUP9zhg25WNPtjY66jdBtyMYgHgGL10\nMK5a/esCfwMR2oKh7XOCknQ4UoemV7g7i6it/NRJKQKBgQDCluUsbc2ECpbcxS8V\nzzyC6IP3QDFNXwSzf31TWhhA8bF2Y/HM1nmyrNVfaFSMn01BsGokk+JbahiqyRRl\nj6j2l3cg9e/ZeqVni0s+V0MNB/JCi0xxNDvTbgnKfOi254zlGDj/rXZhDmr4BlfV\nWkbQDSOcCbjSQlM39x/XtxBfvQKBgQC4Wk7wsAD3zA7NIdjJfa8wuDMRJjbePNwx\nv7x0/uFg4qMDA1+RN4BfoZQJIqzuUCxM9Jj1v4EfzWdyuxwv1GqLnXxWTFObwFsr\nBSsn6TUloeRmopefP6M/IGCu0oEwkdLhD2lePtQ4MwxxNtRm5Pi92X6XUzqGZ4Ah\n4tJBdf0+jwKBgQDCRlMCG5JfLQ9X1UpgNOpOLIRsm1tdyurvpu5iBIZIeMXb1Ib6\nInuYRvQ07/3R8833MoGWiUsqR2/fOyixCVAA+lIGx2Qytj9jdG+oCwk3fmKBy3+D\nWkoMmkUOM81Hp0BFDf0CT5Xr6rAjdnnE2f/vAd82j4JF8dASBRl2jh+75QKBgCpl\nmoH/+DkE1OKYRiMQpJmvww7Omw/BL2LBlbXSaEK/3H106SWcfgmAP2tabirghU+t\ncQATar7FnmTkYzccwuQY899k7lWDh3P9XE9xcqeU89Im0nftSr3Z1GJgRxXEc5sO\n0Ey8ZlIGa3YeBfsj7ZC71EE5AtymMPGaGIC1gehBAoGASC1gR6K8s/q5razQP+1F\n9yGxOpSEEtD3sjt5QYoq+b4eO2/rcDxmhHF3pnDNgJjx1uSlxKFxji44vE2WR+wZ\n2PjWBlBGiTcCgTjJqrc6c3wVpaSFTTeq9ZMa8xhfrCt03MhvxOGWskTKAVS3PPTK\nVCiW3Qo3kAlc5pZncHo0YZw=\n-----END PRIVATE KEY-----\n",
-  "client_email": "techvengers@velvety-tangent-394710.iam.gserviceaccount.com",
-  "client_id": "102837382823861513873",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/techvengers%40velvety-tangent-394710.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
